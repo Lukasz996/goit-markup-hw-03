@@ -339,13 +339,13 @@ ul {
 
 /* div grid */
 
-.grid-container {
+.flex-container {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 30px;
 }
 
-.grid-item {
+.flex-item {
 	flex-basis: 370px;
 	margin: 0 auto;
 	list-style: none;
